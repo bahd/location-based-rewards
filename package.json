@@ -1,0 +1,15 @@
+{
+  "name": "location-based-rewards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "clarinet test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clarinet": "^0.27.2"
+  }
+}
